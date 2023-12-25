@@ -7,3 +7,11 @@ git push -m origin main
 git pull origin main
 git branch Mayur
 git checkout Mayur
+git branch
+git merge mayur main
+git branch -d mayur
+git log
+
+
+NOTE : 
+The git add . command is used to stage all the changes in your working directory for the next commit. Here's what it does:
