@@ -3,7 +3,7 @@ git add file_name
 git add .
 git commit -m "message"
 git branch -m main
-git push -m origin main
+git push -u origin main
 git pull origin main
 git branch Mayur
 git checkout Mayur
